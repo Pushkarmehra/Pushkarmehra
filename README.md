@@ -90,7 +90,7 @@ I'm a passionate developer who loves to create amazing web experiences and explo
   <a href="https://github.com/Pushkarmehra" target="_blank">
     <img width="32" height="32" src="https://img.icons8.com/arcade/64/github.png" alt="GitHub" />
   </a>
-  <a href="mailto:pushkarjeemain@gmail.com" target="_blank">
+  <a href="mailto:pushkaroops@gmail.com" target="_blank">
     <img width="32" height="32" src="https://img.icons8.com/arcade/64/gmail.png" alt="Email" />
   </a>
 </p>
