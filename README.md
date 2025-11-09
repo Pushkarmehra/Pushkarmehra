@@ -74,6 +74,33 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 
 ---
 
+## 💻 LeetCode Achievements
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" height="120px" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" height="120px" />
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-08.gif" alt="August 2025 Badge" height="120px" />
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-07.gif" alt="July 2025 Badge" height="120px" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%20Days%20Badge-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" alt="100 Days Badge" />
+  <img src="https://img.shields.io/badge/50%20Days%20Badge-2025--07--19-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" alt="50 Days Badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/August%20Badge-2025--08--31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" alt="August Badge" />
+  <img src="https://img.shields.io/badge/July%20Badge-2025--07--31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" alt="July Badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" alt="LeetCode Profile" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
