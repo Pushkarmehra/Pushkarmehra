@@ -63,14 +63,19 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 
 <p align="center">
   <a href="https://www.hackerrank.com/h241033037" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-C++%20★★★★★%20(5%20Star%20Gold)-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=20232a" alt="HackerRank C++ 5-Star Gold Badge" />
+    <img src="https://raw.githubusercontent.com/Pushkarmehra/Pushkarmehra/main/image-removebg-preview%20(1).png" alt="HackerRank C++ 5-Star Gold Badge" height="120px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/h241033037" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-C++%20★★★★★%20(5%20Star%20Gold)-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=20232a" alt="HackerRank Profile" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-Gold%20Level-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=20232a" alt="Problem Solving Gold" />
   <img src="https://img.shields.io/badge/Algorithms-Expert-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=20232a" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/C++-5%20Star%20Gold-FFD700?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=20232a" alt="C++ 5 Star" />
 </p>
 
 ---
