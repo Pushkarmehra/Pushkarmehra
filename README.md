@@ -1,6 +1,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pushkar+Mehra!;Welcome+to+my+Profile!" />
 </p>
+<img 
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  width="800"
+  height="800"
+  style="display:block; margin: 10px auto;"
+/>
+
+
+<br><br>
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Pushkarmehra.Pushkarmehra" alt="Profile Views" />
@@ -9,6 +18,7 @@
 ---
 
 ## 🚀 About Me
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
 
 I'm a passionate developer who loves to create amazing web experiences and explore new technologies. Always learning, always growing!
 
@@ -19,6 +29,8 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 ---
 
 ## 📊 GitHub Statistics
+ <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Pushkarmehra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
@@ -32,6 +44,7 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 ---
 
 ## 🛠️ Tools & Technologies
+<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vanshgulati16/vanshgulati16/main/ToolsAndTech.png" alt="Tools & Technologies" height="50px" />
@@ -44,7 +57,7 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 ---
 
 ## 📈 Contribution Graph
-
+<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkarmehra&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
@@ -52,6 +65,7 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 ---
 
 ## 🏆 GitHub Trophies
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pushkarmehra&theme=react&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -60,7 +74,8 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 ---
 
 ## 🏅 HackerRank Badges and Medals
-
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    
 <p align="center">
   <a href="https://www.hackerrank.com/h241033037" target="_blank">
     <img src="https://raw.githubusercontent.com/Pushkarmehra/Pushkarmehra/main/image-removebg-preview%20(1).png" alt="HackerRank C++ 5-Star Gold Badge" height="120px" />
@@ -81,6 +96,7 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 ---
 
 ## 💻 LeetCode Achievements
+  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" height="120px" />
@@ -107,7 +123,26 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 
 ---
 
+## 🎯 Kaggle Achievements
+   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+
+<p align="center">
+  <a href="https://www.kaggle.com/pushkarmehra" target="_blank">
+   <div style="background: white; display: inline-block; padding: 10px;">
+  <img 
+    src="https://raw.githubusercontent.com/Pushkarmehra/Pushkarmehra/main/image-removebg-preview.png" 
+    alt="Kaggle Profile Badge" 
+    height="120px"
+  />
+</div>
+
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vanshgulati16/vanshgulati16/main/Connect.png" alt="Connect with me" height="29px" />
@@ -126,22 +161,41 @@ I'm a passionate developer who loves to create amazing web experiences and explo
   <a href="mailto:pushkaroops@gmail.com" target="_blank">
     <img width="32" height="32" src="https://img.icons8.com/arcade/64/gmail.png" alt="Email" />
   </a>
+<a href="https://www.kaggle.com/pushkarmehra" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"
+    width="25"
+    height="25"
+    alt="Kaggle"
+  />
+</a>
 </p>
 
 ---
 
 ## 📫 Contact Information
+<div style="white-space:nowrap;">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
 
 <p align="center">
   <span>📧 pushkarjeemain@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</span>
 </p>
 
 ---
+<div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/Pushkarmehra">Pushkar Mehra</a>
+</div>.
 </p>
