@@ -1,5 +1,5 @@
 
-name: Git Koi Profile
+name: Koi
 
 on:
   schedule:
@@ -23,24 +23,23 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Generate Git Koi
-        uses: yalongwastaken/git-koi@v1.0.2
+      - uses: yalongwastaken/git-koi@v1.0.2
         with:
           body: white
           output-dir: koi
 
-      - name: Commit generated koi
+      - name: Commit the koi if it changed
         shell: bash
         run: |
           git add koi/koi.gif
 
           if git diff --cached --quiet; then
-            echo "Koi is unchanged"
+            echo "The koi is unchanged"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "Update Git Koi"
-          git push
+          git commit --quiet --message "koi: draw the day's koi"
+          git push --quiet
