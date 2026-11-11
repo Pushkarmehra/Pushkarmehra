@@ -125,17 +125,13 @@ I'm a passionate developer who loves to create amazing web experiences and explo
 
 ## 🎯 Kaggle Achievements
    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-
 <p align="center">
   <a href="https://www.kaggle.com/pushkarmehra" target="_blank">
-   <div style="background: white; display: inline-block; padding: 10px;">
-  <img 
-    src="https://raw.githubusercontent.com/Pushkarmehra/Pushkarmehra/main/image-removebg-preview.png" 
-    alt="Kaggle Profile Badge" 
-    height="120px"
-  />
-</div>
-
+    <img
+      src="https://raw.githubusercontent.com/Pushkarmehra/Pushkarmehra/main/image-removebg-preview.png"
+      alt="Kaggle Profile Badge"
+      height="120"
+    />
   </a>
 </p>
 
